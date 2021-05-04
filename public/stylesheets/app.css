@@ -1,0 +1,9 @@
+#cluster-map { /* campground index map */
+    width: 100%;
+    height: 500px;
+}
+
+#map { /* campground show page map */
+    width: 100%;
+    height: 300px;
+}
